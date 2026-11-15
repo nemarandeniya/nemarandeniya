@@ -8,7 +8,7 @@ I'm a graduate in Information Technology with a passion for building modern, sca
 
 ### About Me
 
-- 🎓 IT Graduate from UCSC
+- 🎓 IT Undergraduate from UCSC
 - 💻 Interested in Full-Stack Development and Software Engineering
 - 🌱 Continuously learning and improving my technical skills
 - 🚀 Focused on building practical projects and expanding my development experience
