@@ -88,13 +88,24 @@ I'm a graduate in Information Technology with a passion for building modern, sca
 
 
 
-### Let's Connect
+### 
 
-- LinkedIn: [Nemash Randeniya](https://www.linkedin.com/in/nemash-randeniya/)
-- GitHub: [@nemarandeniya](https://github.com/nemarandeniya)
+<h3 data-importer="text" align="left">Let's Connect</h3>
 
----
+<div data-importer="techs" align="left">
+<a href="https://linkedin.com/in/nemash-randeniya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+</a>
+<img width="10" />
+<a href="mailto:nemashrandeniya2001@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" height="40" alt="gmail logo" />
+</a>
 
+
+
+
+
+### 
 *Always learning. Always building.*
 
 
